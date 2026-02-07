@@ -44,3 +44,13 @@ North America was the largest contributor to total sales, especially during peak
 
 ## 📈 Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png)
+
+## 📁 Project Structure
+
+Video-Game-Sales-Analysis/
+│
+├── Video_Game_Sales_Analysis.xlsx # Cleaned dataset + Excel analysis
+├── dashboard_preview.png # Power BI dashboard snapshot
+└── README.md # Project documentation
+
+
